@@ -1,0 +1,23 @@
+{
+  "name": "stack-and-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadjubran/stack-and-queue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadjubran/stack-and-queue/issues"
+  },
+  "homepage": "https://github.com/ahmadjubran/stack-and-queue#readme",
+  "dependencies": {
+    "jest": "^29.1.1"
+  }
+}
